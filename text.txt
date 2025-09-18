@@ -1,2 +1,2 @@
 This is a file i use to learn about git and git hub
-modify the text file.
+delete and change the line
